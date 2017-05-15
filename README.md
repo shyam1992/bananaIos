@@ -5,4 +5,4 @@ Feel free to raise issues in repository.
 
 <a href="https://github.com/shyam1992/bananaIos/issues">issues</a>
 <br/>
-Developed by<a href="web-worker.in>Shyam</a>
+Developed by<a href="web-worker.in">Shyam</a>
